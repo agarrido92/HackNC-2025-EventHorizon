@@ -57,6 +57,16 @@ As part of a collaborative hackathon team, my main contributions included:
 
 ---
 
+## 🌟 Project Preview
+
+Map View
+[Event Horizon Map View](Event_Horizon_Map_View.png)
+
+List View
+[Event Horizon List View](Event_Horizon_List_View.png)
+
+---
+
 ## 💬 Acknowledgements
 
 Created as part of a hackathon collaboration with a passionate group of developers. Special thanks to all team members for their creativity, collaboration, and dedication under time pressure.
