@@ -60,10 +60,10 @@ As part of a collaborative hackathon team, my main contributions included:
 ## 🌟 Project Preview
 
 Map View
-[Event Horizon Map View](Event_Horizon_Map_View.png)
+![Event Horizon Map View](Event_Horizon_Map_View.png)
 
 List View
-[Event Horizon List View](Event_Horizon_List_View.png)
+![Event Horizon List View](Event_Horizon_List_View.png)
 
 ---
 
